@@ -1,5 +1,5 @@
 # unity-base-image
-Docker image containing the basic software every Unity version requires for executing
+Docker image containing the basic environment needed by every Unity version under Linux
 
 To build it: docker build -t unity-base-image .
 
